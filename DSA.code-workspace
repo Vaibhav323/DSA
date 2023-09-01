@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "files.associations": {
+      "array": "cpp",
+      "deque": "cpp",
+      "queue": "cpp",
+      "span": "cpp",
+      "vector": "cpp",
+      "xstring": "cpp",
+      "xutility": "cpp"
+    }
+  }
+}
